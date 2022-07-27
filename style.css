@@ -1,0 +1,13 @@
+body{
+    background-color: #0e1a40;
+}
+.card{
+    height: 380px;
+    border-color: #3e555a;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.card:hover .card-body h5{
+    color: 	#3e555a;
+}
